@@ -9,7 +9,7 @@
 
 **A fully responsive, modern e-commerce platform inspired by ZARA's minimalist design philosophy**
 
-[📖 Live Demo](https://your-demo-link.vercel.app) • [🐛 Report Bug](https://github.com/Daniishraza/zara-clone/issues)
+[📖 Live Demo](https://monomartt.netlify.app/) • [🐛 Report Bug](https://github.com/Daniishraza/zara-clone/issues)
 
 </div>
 
